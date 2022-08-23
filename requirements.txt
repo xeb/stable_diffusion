@@ -1,3 +1,7 @@
 sanic
 transformers
 accelerate
+diffusers==0.2.4
+scipy
+ftfy
+requests
