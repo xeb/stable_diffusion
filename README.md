@@ -7,5 +7,5 @@ This repo is a basic way to run inference of Stable Diffusions via [Banana Serve
 
 1. Run `pip3 install -r requirements.txt` to download dependencies.
 2. Run `python3 server.py` to start the server.
-3. Run `python3 test.py` in a different terminal session to test against it. Note that test.py has various prompts in it.
+3. Run `python3 test.py` in a different session to test against it. Note that test.py has various prompts in it.
 
